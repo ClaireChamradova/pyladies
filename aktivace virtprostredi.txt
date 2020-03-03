@@ -1,0 +1,5 @@
+C:\Users\Klárka\Klárka\Škola\naucse_python>venv\Scripts\activate
+
+python --version
+
+(venv) C:\Users\Klárka\Klárka\Škola\naucse_python>
